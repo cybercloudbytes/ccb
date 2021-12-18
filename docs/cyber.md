@@ -26,11 +26,13 @@ a.k.a CIA triad
 Federated SSO ( Federated Identity) is establishment of trusted relationships between Separate Organisations using SAML or OAUTH
 
 SP - Service Provider - Provides the Service
+
 IDP - Identity provider - Manages the Identities for SSO login
 
-##### Reference 
 
-    -  [Step by step to configure AWS SSO](https://youtu.be/T4z0FLeJtvg)
+##### Reference
+
+    -  Step by step to configure AWS SSO - https://youtu.be/T4z0FLeJtvg
     -  https://www.pingidentity.com/en/company/blog/posts/2021/sso-vs-federated-identity-management.html
     -  http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0.html
 
